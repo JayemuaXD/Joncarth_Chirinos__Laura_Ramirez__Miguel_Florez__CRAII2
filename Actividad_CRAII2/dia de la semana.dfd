@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+"ingrese un numero de el 1 al 7 para saber que dia de la semana es"
+5
+1
+3
+DIA
+7
+0
+1
+7
+DIA = 1
+7
+0
+1
+7
+DIA = 2
+7
+0
+1
+7
+DIA = 3
+7
+0
+1
+7
+DIA = 4
+7
+0
+1
+7
+DIA = 5
+7
+0
+1
+7
+DIA = 6
+7
+0
+1
+7
+DIA = 7
+4
+1
+7
+"ERROR"
+13
+4
+1
+19
+"el dia es domingo"
+13
+13
+4
+1
+18
+"el dia es sabado"
+13
+13
+4
+1
+19
+"el dia es viernes"
+13
+13
+4
+1
+18
+"el dia es jueves"
+13
+13
+4
+1
+21
+"el dia es miercoles"
+13
+13
+4
+1
+18
+"el dia es martes"
+13
+13
+4
+1
+17
+"el dia es lunes"
+13
+4
+1
+28
+"muchas gracias hasta luego"
+1
